@@ -8,6 +8,7 @@ struct ColorClassicStruct {
 
 struct ColorTupleStruct(String, String);
 
+
 #[derive(Debug)]
 struct UnitStruct;
 
